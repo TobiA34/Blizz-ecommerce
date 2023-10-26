@@ -1,4 +1,4 @@
-# BLIZZ Ecommerce wWebsite
+# BLIZZ Ecommerce Website
 
 This is a custom theme for a clothes store.
 
